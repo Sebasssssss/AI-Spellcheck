@@ -22,7 +22,6 @@ Then, head to the file 'is.js' and at the top of the file, modify the variable c
 
 ```
 const COHERE_API_KEY = 'YOUR_API_KEY'
-
 ```
 
 Finally, start the development server:
@@ -33,7 +32,11 @@ npm run dev
 
 ## Contributing
 
-We welcome contributions to AI-Spellcheck! If you'd like to contribute, please fork the repository and submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## Credits
+
+This project was inspired by the tutorial series by [midudev](https://github.com/midudev) on YouTube.
 
 ## License
 
