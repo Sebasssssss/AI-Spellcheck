@@ -35,6 +35,10 @@ npm run dev
 
 We welcome contributions to AI-Spellcheck! If you'd like to contribute, please fork the repository and submit a pull request.
 
+## Credits
+
+This project was inspired by the tutorial series by [midudev](https://github.com/midudev) on YouTube.
+
 ## License
 
 Mit License.
