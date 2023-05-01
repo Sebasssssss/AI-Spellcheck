@@ -22,7 +22,6 @@ Then, head to the file 'is.js' and at the top of the file, modify the variable c
 
 ```
 const COHERE_API_KEY = 'YOUR_API_KEY'
-
 ```
 
 Finally, start the development server:
