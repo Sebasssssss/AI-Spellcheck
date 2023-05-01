@@ -33,7 +33,7 @@ npm run dev
 
 ## Contributing
 
-We welcome contributions to AI-Spellcheck! If you'd like to contribute, please fork the repository and submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Credits
 
