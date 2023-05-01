@@ -1,4 +1,4 @@
-const COHERE_API_KEY = 'JvX596EW4CCilp6CpnoelBPfGA8QAxngUWIzyUCe'
+const COHERE_API_KEY = 'YOUR_API_KEY'
 const COHERE_API_GENERATE_URL = 'https://api.cohere.ai/generate'
 const COHERE_API_DETECT_LANGUAGE_URL = 'https://api.cohere.ai/detect-language'
 
