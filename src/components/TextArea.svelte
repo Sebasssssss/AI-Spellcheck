@@ -19,9 +19,9 @@
 <textarea 
   on:input={handleChange}
   id="result"
-  placeholder="Write what you want to fix"
+  placeholder="Write here what you want to correct..."
   name="comment"
   rows="4"
   cols="40"
-  class="flex-1 w-full px-4 py-2 mt-4 text-base text-gray-700 placeholder-gray-400 bg-white border border-gray-300 rounded-lg appearance-none focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent" 
+  class="flex-1 w-full px-4 py-2 mt-4 hover:bg-gray-50 focus:bg-gray-50 text-base text-gray-700 placeholder-gray-400 bg-white border border-gray-300 rounded-lg appearance-none focus:outline-none focus:ring-2 focus:ring-zinc-300 focus:border-transparent shadow-md" 
 />

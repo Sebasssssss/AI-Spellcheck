@@ -2,12 +2,13 @@
 import ButtonSubmit from '../components/ButtonSubmit.svelte';
 import Textarea from '../components/TextArea.svelte'
 import Layout from '../layouts/Layout.astro';
+import '../styles/globals.css'
 ---
 
 <Layout title="Fix my english">
 	<main class="container max-w-lg m-auto flex flex-col">
     <header class="py-4">
-      <h1 class="text-3xl font-bold">Fix my english!</h1>
+      <h1 class="text-3xl font-bold w-full text-center font-garamond">Fix my english!</h1>
     </header>
     <div class="flex flex-col gap-2">
       <Textarea client:visible />
