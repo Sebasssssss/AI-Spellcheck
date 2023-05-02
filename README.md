@@ -1,5 +1,3 @@
-Sure, here's a README.md file for the AI-Spellcheck project:
-
 # AI-Spellcheck
 
 AI-Spellcheck is a web application that uses artificial intelligence to find and correct spelling mistakes in text. The application is built using the Cohere API, a powerful natural language processing tool that allows us to analyze text and suggest corrections.
