@@ -16,7 +16,7 @@ cd AI-Spellcheck
 npm install
 ```
 
-Then, head to the file 'is.js' and at the top of the file, modify the variable called 'COHERE_API_KEY' and write yours:
+Then, head to the file 'ia.js' and at the top of the file, modify the variable called 'COHERE_API_KEY' and write yours:
 
 ```
 const COHERE_API_KEY = 'YOUR_API_KEY'
