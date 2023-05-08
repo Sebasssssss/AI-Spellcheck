@@ -36,7 +36,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 This project was inspired by the tutorial series by [midudev](https://github.com/midudev) on YouTube.
 
-## License
-
-Mit License.
-
